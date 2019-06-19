@@ -5,7 +5,7 @@ import com.liutaiyue.dubbo.entity.User;
 import java.io.Serializable;
 
 /**
- * @Author 刘太月
+ * @Author lty
  * @Despriction dubbo api
  * @Created in 2019/6/19 15:26
  * @version: 1.0

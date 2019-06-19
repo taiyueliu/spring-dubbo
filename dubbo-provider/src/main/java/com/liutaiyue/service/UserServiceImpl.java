@@ -6,7 +6,7 @@ import com.liutaiyue.dubbo.entity.User;
 import org.springframework.stereotype.Component;
 
 /**
- * @Author 刘太月
+ * @Author lty
  * @Despriction dubbo 提供者 <p>提供者需要实现 公共api</p>
  * @Created in 2019/6/19 15:41
  * @version: 1.0

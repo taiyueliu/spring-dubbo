@@ -5,7 +5,7 @@ import org.json.JSONObject;
 import java.io.Serializable;
 
 /**
- * @Author 刘太月
+ * @Author lty
  * @Despriction 实体类需要序列化
  * @Created in 2019/6/19 15:21
  * @version: 1.0
