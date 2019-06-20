@@ -3,6 +3,7 @@ package com.liutaiyue.service;
 import com.alibaba.dubbo.config.annotation.Service;
 import com.liutaiyue.dubbo.api.UserApi;
 import com.liutaiyue.dubbo.entity.User;
+import com.liutaiyue.filter.FacadeAccessFilter;
 import org.springframework.stereotype.Component;
 
 /**
