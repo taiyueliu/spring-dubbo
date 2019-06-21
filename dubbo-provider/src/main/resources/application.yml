@@ -14,3 +14,5 @@ spring:
       server: true
       provider:
          filter: facadeAccessFilter
+         cluster: failsafeCluster
+         loadbalance: roundRobinLoadBalance
