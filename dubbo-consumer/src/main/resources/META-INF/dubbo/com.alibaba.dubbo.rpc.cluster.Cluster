@@ -1,0 +1,1 @@
+failsafeCluster=com.alibaba.dubbo.rpc.cluster.support.FailsafeCluster

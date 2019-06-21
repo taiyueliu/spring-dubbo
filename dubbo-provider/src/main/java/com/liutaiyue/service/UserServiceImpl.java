@@ -17,6 +17,7 @@ import org.springframework.stereotype.Component;
 @Component
 @Service(version = "1.0.0",timeout = 10000,interfaceClass = UserApi.class)//dubbo 提供者注解
 public class UserServiceImpl implements UserApi{
+    private static final long serialVersionUID = 5231134212346077681L;
     @Override
     public User getUser(Integer id) {
         return new User(){{setId(id);setName("adou");setPhone("17521240181");}};
